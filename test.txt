@@ -1,4 +1,0 @@
-888
-
-O into vim edit mode.
-vim test
